@@ -1,0 +1,8 @@
+{
+  "name": "Hindi Neural TTS Studio",
+  "description": "Convert Hindi text into natural-sounding speech using Microsoft Edge Neural TTS with instant in-browser playback, MP3 download, and copy-paste ready Streamlit Python script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
